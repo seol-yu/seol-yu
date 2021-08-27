@@ -12,7 +12,7 @@
 🎤 Languages
 <a href="https://github.com/seol-yu/TIL/tree/master/JavaScript" target="_blank">
     <p align="left">
-        <img src="https://github.com/seol-yu/seol-yu/blob/master/images/javascript-badge.png?raw=true" height=200 />
+        <img src="https://github.com/seol-yu/seol-yu/blob/master/images/javascript-badge.png?raw=true" width=50 />
     </p>
 </a>
 🛠 Tools
