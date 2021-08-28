@@ -10,9 +10,17 @@
     </a>
 </p>
 🎤 Languages
-<a href="https://github.com/seol-yu/TIL/tree/master/JavaScript" target="_blank">
-    <p align="left">
+<p align="center">
+    <a href="https://github.com/seol-yu/TIL/tree/master/JavaScript" target="_blank">
         <img src="https://github.com/seol-yu/seol-yu/blob/master/images/javascript-badge-logo.png?raw=true" width=150 />
-    </p>
-</a>
+    </a>
+    <a href="https://github.com/seol-yu/TIL/tree/master/Python" target="_blank">
+        <img src="https://github.com/seol-yu/seol-yu/blob/master/images/python-badge-logo.png?raw=true" width=150 />
+    </a>
+</p>
 🛠 Tools
+<p align="center">
+    <a href="https://github.com/seol-yu/TIL/tree/master/Git" target="_blank">
+        <img src="https://github.com/seol-yu/seol-yu/blob/master/images/git-badge-logo.png?raw=true" width=150 />
+    </a>
+</p>
