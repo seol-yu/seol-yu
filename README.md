@@ -6,9 +6,10 @@
         <img src="https://github.com/seol-yu/seol-yu/blob/master/images/author-badge-light.png?raw=true" height=30 />
     </a>
     <a href="https://github.com/seol-yu" target="_blank">
-        <img src="https://github.com/seol-yu/seol-yu/blob/master/images/mona-whisper.gif?raw=true" align=right width=50 />
+        <img src="https://github.com/seol-yu/seol-yu/blob/master/images/mona.png?raw=true" align=right width=50 />
     </a>
 </p>
+
 🎤 Languages
 <p align="left">
     <a href="https://github.com/seol-yu/TIL/tree/master/JavaScript" target="_blank">
@@ -24,6 +25,6 @@
         <img src="https://github.com/seol-yu/seol-yu/blob/master/images/git-badge-logo.png?raw=true" height=25 />
     </a>
     <a href="https://github.com/seol-yu" target="_blank">
-        <img src="https://github.com/seol-yu/seol-yu/blob/master/images/mona.png?raw=true" align=right width=50 />
+        <img src="https://github.com/seol-yu/seol-yu/blob/master/images/mona-whisper.gif?raw=true" align=right width=50 />
     </a>
 </p>
