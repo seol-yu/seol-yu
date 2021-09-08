@@ -6,7 +6,7 @@
         <img src="https://github.com/seol-yu/seol-yu/blob/master/images/author-badge-light.png?raw=true" height=30 />
     </a>
     <a href="https://github.com/seol-yu" target="_blank">
-        <img src="https://github.com/seol-yu/seol-yu/blob/master/images/mona.png?raw=true" align=right width=50 />
+        <img src="https://github.com/seol-yu/seol-yu/blob/master/images/mona-sy.png?raw=true" align=right width=50 />
     </a>
 </p>
 
