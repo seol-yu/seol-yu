@@ -15,6 +15,9 @@
     <a href="https://github.com/seol-yu/TIL/tree/master/JavaScript" target="_blank">
         <img src="https://github.com/seol-yu/seol-yu/blob/master/images/javascript-badge-logo.png?raw=true" height=25 />
     </a>
+    <a href="https://github.com/seol-yu/TIL/tree/master/TypeScript" target="_blank">
+        <img src="https://github.com/seol-yu/seol-yu/blob/master/images/typescript-badge-logo.png?raw=true" height=25 />
+    </a>
     <a href="https://github.com/seol-yu/TIL/tree/master/Python" target="_blank">
         <img src="https://github.com/seol-yu/seol-yu/blob/master/images/python-badge-logo.png?raw=true" height=25 />
     </a>
