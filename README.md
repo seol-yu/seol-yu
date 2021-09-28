@@ -44,6 +44,12 @@
     <a href="https://github.com/seol-yu/TIL/tree/master/React" target="_blank">
         <img src="https://github.com/seol-yu/seol-yu/blob/master/images/react-badge-logo.png?raw=true" height=25 />
     </a>
+    <a href="https://github.com/seol-yu/TIL/tree/master/VueJS" target="_blank">
+        <img src="https://github.com/seol-yu/seol-yu/blob/master/images/vue-badge-logo.png?raw=true" height=25 />
+    </a>
+    <a href="https://github.com/seol-yu/TIL/tree/master/NodeJS" target="_blank">
+        <img src="https://github.com/seol-yu/seol-yu/blob/master/images/nodejs-badge-logo.png?raw=true" height=25 />
+    </a>
 </p>
 <br />
 🐙😻
