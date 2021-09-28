@@ -24,7 +24,7 @@
     <a href="https://github.com/seol-yu/TIL/tree/master/C" target="_blank">
         <img src="https://github.com/seol-yu/seol-yu/blob/master/images/c-badge-logo.png?raw=true" height=25 />
     </a>
-    <a href="https://github.com/seol-yu/TIL/tree/master/cPlusPlus" target="_blank">
+    <a href="https://github.com/seol-yu/TIL/tree/master/C++" target="_blank">
         <img src="https://github.com/seol-yu/seol-yu/blob/master/images/cPlusPlus-badge-logo.png?raw=true" height=25 />
     </a>
 </p>
