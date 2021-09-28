@@ -41,9 +41,6 @@
 <br />
 🛠🏗️
 <p>
-    <a href="https://github.com/seol-yu/TIL/tree/master/Git" target="_blank">
-        <img src="https://github.com/seol-yu/seol-yu/blob/master/images/git-badge-logo.png?raw=true" height=25 />
-    </a>
     <a href="https://github.com/seol-yu/TIL/tree/master/React" target="_blank">
         <img src="https://github.com/seol-yu/seol-yu/blob/master/images/react-badge-logo.png?raw=true" height=25 />
     </a>
