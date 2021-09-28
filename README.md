@@ -9,7 +9,17 @@
         <img src="https://github.com/seol-yu/seol-yu/blob/master/images/mona.png?raw=true" align=right width=50 />
     </a>
 </p>
-
+<br />
+📝🎨
+<p align="left">
+    <a href="https://github.com/seol-yu/TIL/tree/master/HTML_CSS" target="_blank">
+        <img src="https://github.com/seol-yu/TIL/blob/master/images/html-badge-logo.png?raw=true" height=25 />
+    </a>
+    <a href="https://github.com/seol-yu/TIL/tree/master/HTML_CSS" target="_blank">
+        <img src="https://github.com/seol-yu/TIL/blob/master/images/css-badge-logo.png?raw=true" height=25 />
+    </a>
+</p>
+<br />
 🎤 Languages
 <p align="left">
     <a href="https://github.com/seol-yu/TIL/tree/master/JavaScript" target="_blank">
@@ -28,7 +38,8 @@
         <img src="https://github.com/seol-yu/seol-yu/blob/master/images/cPlusPlus-badge-logo.png?raw=true" height=25 />
     </a>
 </p>
-🛠 Tools
+<br />
+🛠🏗️
 <p>
     <a href="https://github.com/seol-yu/TIL/tree/master/Git" target="_blank">
         <img src="https://github.com/seol-yu/seol-yu/blob/master/images/git-badge-logo.png?raw=true" height=25 />
@@ -36,10 +47,18 @@
     <a href="https://github.com/seol-yu/TIL/tree/master/React" target="_blank">
         <img src="https://github.com/seol-yu/seol-yu/blob/master/images/react-badge-logo.png?raw=true" height=25 />
     </a>
+</p>
+<br />
+🐙😻
+<p>
+    <a href="https://github.com/seol-yu/TIL/tree/master/Git" target="_blank">
+        <img src="https://github.com/seol-yu/TIL/blob/master/images/git-badge-logo.png?raw=true" height=25 />
+    </a>
     <a href="https://github.com/seol-yu" target="_blank">
         <img src="https://github.com/seol-yu/seol-yu/blob/master/images/mona-whisper.gif?raw=true" align=right width=50 />
     </a>
 </p>
+<br />
 🌸 My Portfolio Site
 <p>
     <a href="https://seol-yu.github.io/" target="_blank">
