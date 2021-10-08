@@ -55,10 +55,20 @@
 🐙😻
 <p>
     <a href="https://github.com/seol-yu/TIL/tree/master/Git" target="_blank">
-        <img src="https://github.com/seol-yu/TIL/blob/master/images/git-badge-logo.png?raw=true" height=25 />
+        <img src="https://github.com/seol-yu/seol-yu/blob/master/images/git-badge-logo.png?raw=true" height=25 />
     </a>
     <a href="https://github.com/seol-yu" target="_blank">
         <img src="https://github.com/seol-yu/seol-yu/blob/master/images/mona-whisper.gif?raw=true" align=right width=50 />
+    </a>
+</p>
+<br />
+:woman_technologist:
+<p>
+    <a href="https://github.com/seol-yu" target="_blank">
+        <img src="https://github.com/seol-yu/seol-yu/blob/master/images/42-badge-logo.png?raw=true" height=25 />
+    </a>
+    <a href="https://github.com/seol-yu/Algorithm" target="_blank">
+        <img src="https://github.com/seol-yu/seol-yu/blob/master/images/PS-badge-logo.png?raw=true" height=25 />
     </a>
 </p>
 <br />
