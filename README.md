@@ -1,6 +1,6 @@
-<!-- <p align="center">
+<p align="center">
     <img src="https://github.com/seol-yu/seol-yu/blob/master/images/seolyu.gif" />
-</p> -->
+</p>
 <p>
     <a href="https://github.com/seol-yu" target="_blank">
         <img src="https://github.com/seol-yu/seol-yu/blob/master/images/author-badge.png?raw=true" height=25 />
