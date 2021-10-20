@@ -26,7 +26,7 @@
         <img src="https://github.com/seol-yu/seol-yu/blob/master/img/javascript-badge-logo.png?raw=true" height=25 />
     </a>
     <a href="https://github.com/seol-yu/TIL/tree/master/TypeScript" target="_blank">
-        <img src="https://github.com/seol-yu/seol-yu/blob/master/img/typescript-badge-logo2.png?raw=true" height=25 />
+        <img src="https://github.com/seol-yu/seol-yu/blob/master/img/typescript-badge-logo.png?raw=true" height=25 />
     </a>
     <a href="https://github.com/seol-yu/TIL/tree/master/Python" target="_blank">
         <img src="https://github.com/seol-yu/seol-yu/blob/master/img/python-badge-logo.png?raw=true" height=25 />
