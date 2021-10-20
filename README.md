@@ -78,7 +78,7 @@
         <img src="https://github.com/seol-yu/seol-yu/blob/master/images/Portfolio1.png?raw=true" height=50 />
     </a>
     <a href="https://seol-yu.github.io/portfolio/" target="_blank">
-        <img src="https://github.com/seol-yu/seol-yu/blob/master/images/Portfolio2.png?raw=true" height=50 />
+        <img src="https://github.com/seol-yu/seol-yu/blob/master/images/Portfolio2-2.png?raw=true" height=50 />
     </a>
     <a href="https://github.com/seol-yu" target="_blank">
         <img src="https://github.com/seol-yu/seol-yu/blob/master/images/mona-loading-dark.gif?raw=true" align=right width=50 />
