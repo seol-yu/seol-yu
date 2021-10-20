@@ -3,7 +3,7 @@
 </p>
 <p>
     <a href="https://github.com/seol-yu" target="_blank">
-        <image src="https://github.com/seol-yu/seol-yu/blob/master/imgs/author-badge.png?raw=true" height=25 />
+        <image src="https://github.com/seol-yu/seol-yu/blob/master/imgs/author-badge-logo.png?raw=true" height=25 />
     </a>
     <a href="https://github.com/seol-yu" target="_blank">
         <image src="https://github.com/seol-yu/seol-yu/blob/master/imgs/mona.png?raw=true" align=right width=50 />
