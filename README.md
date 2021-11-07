@@ -72,6 +72,13 @@
     </a>
 </p>
 <br />
+🖥️🎨
+<p>
+    <a href="https://github.com/seol-yu" target="_blank">
+        <image src="https://github.com/seol-yu/seol-yu/blob/master/imgs/ai-badge-logo.png?raw=true" height=25 />
+    </a>
+</p>
+<br />
 🌸 My Portfolio Site
 <p>
     <a href="https://seol-yu.github.io/" target="_blank">
