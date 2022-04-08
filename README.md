@@ -87,6 +87,9 @@
     <a href="https://seol-yu.github.io/portfolio/" target="_blank">
         <image src="https://github.com/seol-yu/seol-yu/blob/master/imgs/Portfolio2-2.png?raw=true" height=50 />
     </a>
+    <a href="https://cobalt-yam-d8c.notion.site/Hello-I-m-Lee-Seolyu-ff934faf51a746bba58471b7c5b6fcf8" target="_blank">
+        <image src="https://github.com/seol-yu/seol-yu/blob/master/imgs/Portfolio3.png?raw=true" height=50 />
+    </a>
     <a href="https://github.com/seol-yu" target="_blank">
         <image src="https://github.com/seol-yu/seol-yu/blob/master/imgs/mona-loading-dark.gif?raw=true" align=right width=50 />
     </a>
